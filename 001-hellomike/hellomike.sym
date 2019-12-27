@@ -1,0 +1,4 @@
+.label Screencol=$8014
+.label loop=$8020
+.label start=$8010
+.label message=$8033
